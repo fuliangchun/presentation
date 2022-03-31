@@ -23,7 +23,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <springboot.version>2.2.1.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <springsecurity.version>5.2.1.RELEASE</springsecurity.version>
     </properties>
 
